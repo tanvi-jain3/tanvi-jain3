@@ -14,7 +14,7 @@
 2. Implementation of Trading algorithms in Python (with theory explanations for follow-along): [Algorithmic Trading](https://github.com/tanvi-jain3/algo-trading)
 3. Machine Learning to Predict Customer Loyalty based on credit card data (top 100 globally on kaggle): [Elo Merchant Category Recommendation](https://github.com/pareenakaur/SC4000-ML-Grp1) 
 4. Android app for bluetooth based remote control and navigation of Raspberry Pi-based robot: [Multi-disciplinary Project](https://github.com/tanvi-jain3/multidisciplinary-project)
-5. Classification of songs by genre based on auditory characteristics (Netflix dataset) : [Song Genre Classification](https://github.com/tanvi-jain3/SC1015-Song-Genre-Classification)
+5. Classification of songs by genre based on auditory characteristics (Spotify Developer dataset) : [Song Genre Classification](https://github.com/tanvi-jain3/SC1015-Song-Genre-Classification)
    
 <!--
 **tanvi-jain3/tanvi-jain3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
