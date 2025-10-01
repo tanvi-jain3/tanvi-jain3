@@ -6,7 +6,7 @@
 - 💬 Ask me about Formula 1 race data
 - 📫 How to reach me: tanvi004@e.ntu.edu.sg or my [LinkedIn](https://www.linkedin.com/in/tanvijain03/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Most of my repositories are private 😔
+- ⚡ Fun fact: I play a lot of chess ♟️
 
 # Some of my recent projects:
 
